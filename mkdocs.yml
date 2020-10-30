@@ -1,5 +1,5 @@
-site_name: MkLorum
+site_name: Manual de Usuario NazanUtility
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+theme: readthedocs  
