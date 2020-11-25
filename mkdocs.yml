@@ -1,9 +1,0 @@
-site_name: Manual de Usuario NazanUtility
-nav:
-    - Inicio: index.md
-    - Panel de control: dahsboar.md
-    - Tienda: store.md
-    - Bancos: banks.md
-    - Regiones: regions.md
-    - Registros: crud.md
-theme: readthedocs  
