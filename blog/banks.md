@@ -7,40 +7,40 @@ slugs:
 ---
 
 <div class="wy-grid-for-nav">
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+  <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
         <a href=".." class="icon icon-home"> Manual de Usuario NazanUtility</a>
       </div>
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/home">Inicio</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/dashboard/">Panel de control</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/store/">Tienda</a>
-                    </li>
-                </ul>
-                <ul class="current">
-                    <li class="toctree-l1 current"><a class="reference internal current" href="blog/banks">Bancos</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/regions/">Regiones</a>
-                    </li>
-                </ul>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/crud/">Registros</a>
-                    </li>
-                </ul>
+        <ul>
+          <li class="toctree-l1"><a class="reference internal" href="blog/home">Inicio</a>
+          </li>
+        </ul>
+        <ul>
+          <li class="toctree-l1"><a class="reference internal" href="blog/dashboard/">Panel de control</a>
+          </li>
+        </ul>
+        <ul>
+          <li class="toctree-l1"><a class="reference internal" href="blog/store/">Tienda</a>
+          </li>
+        </ul>
+        <ul class="current">
+          <li class="toctree-l1 current"><a class="reference internal current" href="blog/banks">Bancos</a>
+          </li>
+        </ul>
+        <ul>
+          <li class="toctree-l1"><a class="reference internal" href="blog/regions/">Regiones</a>
+          </li>
+        </ul>
+        <ul>
+          <li class="toctree-l1"><a class="reference internal" href="blog/crud/">Registros</a>
+          </li>
+        </ul>
       </div>
     </div>
-    </nav>
-    </div>
+  </nav>
+</div>
 
 
 
@@ -83,15 +83,32 @@ slugs:
             </p>
           </div>
         </div>
-        <footer>
-          <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-            <a href="blog/regions/" class="btn btn-neutral float-right" title="Regiones">Siguiente <span class="icon icon-circle-arrow-right"></span></a>
-            <a href="blog/store/" class="btn btn-neutral" title="Tienda"><span class="icon icon-circle-arrow-left"></span> Anterior</a>
-          </div>
-          <hr />
-          <div class="rst-versions" role="note" aria-label="versions">
-            <span class="rst-current-version" data-toggle="rst-current-version">
-              <span><a href="blog/store/" style="color: #fcfcfc;">&laquo; Anterior</a></span>
-              <span style="margin-left: 15px"><a href="blog/regions/" style="color: #fcfcfc">Siguiente &raquo;</a></span>
-            </span>
-          </div>
+      </div>
+    </div>
+    </section>
+</div>
+
+
+<footer>
+  <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+    <a href="blog/regions/" class="btn btn-neutral float-right" title="Regiones">Siguiente <span
+        class="icon icon-circle-arrow-right"></span></a>
+    <a href="blog/store/" class="btn btn-neutral" title="Tienda"><span class="icon icon-circle-arrow-left"></span>
+      Anterior</a>
+  </div>
+  <hr />
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      <span><a href="blog/store/" style="color: #fcfcfc;">&laquo; Anterior</a></span>
+      <span style="margin-left: 15px"><a href="blog/regions/" style="color: #fcfcfc">Siguiente &raquo;</a></span>
+    </span>
+  </div>
+</footer>
+
+
+
+
+
+
+
+
